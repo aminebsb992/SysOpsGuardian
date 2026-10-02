@@ -30,3 +30,21 @@ Autonomous system administrator and SRE suite in Python. Diagnoses root causes u
 ​Weibull Wear-Out Modeling: Predicts NVMe drive failure, rebuilding mirrors to hot spares and filing automated vendor RMAs.
 ​ECC Memory Surge Mitigation: Soft-offlines degrading physical memory rows (soft_offline_page) and live-migrates guest VMs.
 ​Thermal Core Parking: Parks degraded CPU cores via sysfs and caps governor frequencies to prevent thermal shutdowns.
+
+​🚀 Quick Start
+
+# Clone repository
+git clone [https://github.com/YOUR_USERNAME/sysops-guardian.git](https://github.com/YOUR_USERNAME/sysops-guardian.git)
+cd sysops-guardian
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run root-cause diagnostic scan
+python3 sysops_guardian.py scan
+
+# Simulate remediation in Dry-Run mode
+python3 sysops_guardian.py remediate --dry-run
+
+# Run full interactive demonstration
+python3 sysops_guardian.py demo
