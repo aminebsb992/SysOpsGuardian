@@ -1,6 +1,5 @@
 # SysOpsGuardian 🛡️
-[[https://img.shields.io/badge/Language-Python%203.11-3776AB?logo=python&logoColor=white]](https://www.python.org/)
-
+[[https://img.shields.io/badge/Language-Python%203.11-3776AB?logo=python&logoColor=white]](https://www.python.org/) 
 
 ```text
   ███████╗██╗   ██╗███████╗ ██████╗ ██████╗ ███████╗
