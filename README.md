@@ -14,8 +14,6 @@
   ╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝██║██║  ██║██║ ╚████║
    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-[https://img.shields.io/badge/python-3.10%2B-blue.svg]
-[https://img.shields.io/badge/License-MIT-green.svg]
 
 ​SysOpsGuardian is an autonomous system administrator and Site Reliability Engineering (SRE) suite in Python. Rather than generating surface-level alerts, it diagnoses root causes using statistical analysis and machine learning hazard models, then executes automated, reversible remediation workflows with rollback guarantees.
 ​🌟 Key Modules
